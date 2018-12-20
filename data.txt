@@ -1,6 +1,6 @@
 1.点击跳转到微信        window.location.href = 'weixin://'
 
-2.点击任意位置跳转链接  document.body.onclick = function({ window.location.href = "" })
+2.点击任意位置跳转链接  document.body.onclick = function(){ window.location.href = "" }
 
 3.移动端300毫秒延迟
   3.1 js写法             window.addEventListener('load', function () { FastClick.attach(document.body) }, false)
