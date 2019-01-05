@@ -5,3 +5,10 @@
 3.移动端300毫秒延迟
   3.1 js写法             window.addEventListener('load', function () { FastClick.attach(document.body) }, false)
   3.2 jquery             $(function() { FastClick.attach(document.body) })
+4.爱剪辑、快剪辑
+
+5.ftp
+
+6.mstsc 远程桌面连接
+
+7.长按事件
